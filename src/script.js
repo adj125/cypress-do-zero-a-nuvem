@@ -1,7 +1,7 @@
 let isPhoneRequired = false
 
 const phoneLabelSpan = document.querySelector('.phone-label-span')
-const phoneField = document.getElementById('phone' //linha quebrada de propósito
+const phoneField = document.getElementById('phone') 
 
 document.querySelector('#phone-checkbox')
   .addEventListener('change', function() {
